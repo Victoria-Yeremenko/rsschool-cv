@@ -1,24 +1,23 @@
 # Victoria Yeremenko
----
+
 Frontend Developer
----
+
 ## Contacts
 * Phone: +7 926 641 17 65
 * E-mail: victoria_yeremenko@yahoo.com
-* GitHub: [Victoria-Yeremenko] (https://github.com/Victoria-Yeremenko)
+* GitHub: [Victoria-Yeremenko](https://github.com/Victoria-Yeremenko)
 * Telegram: @victoria_yeremenko
 
----
 ## About me
 I am a beginner IT specialist and now I am studying Frontend  Development. 
 
 ## Skills
 
-*HTML5
-*CSS
-*JavaScript, Python
-*Git
-*Figma
+* HTML5
+* CSS
+* JavaScript, Python
+* Git
+* Figma
 
 ## Code example 
 
@@ -37,6 +36,15 @@ function findShort(s){
   return Math.min(...len)
 }
 ```
+# Courses
+
+* HTML Academy 
+* RS School «JavaScript/Front-end. Stage 0» (in progress)
+
+# Languages
+
+* English (B2 - Upper Intermediate)
+* German (Beginner)
 
 
 
