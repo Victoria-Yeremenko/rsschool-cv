@@ -32,7 +32,7 @@
 
 .nav-list {
   display: flex;
-  justify-content: flex-end;
+  justify-content: space-between;
   align-items: center;
 
   list-style: none;
@@ -56,16 +56,15 @@
   border: 1px solid red;
 }
 
-/* .main-container {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-.section {
-  width: 50%;
-} */
 
 /* FOOTER */
 .footer {
-  border: 1px solid red;
+  border: 1px solid red;  
+}
+
+.footer-container {
+  padding: 0 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
