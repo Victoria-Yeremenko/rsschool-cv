@@ -23,11 +23,12 @@
 .container {
   max-width: 1440px;
   margin: 0 auto;
+  padding: 0 60px;
 }
 
 /* HEADER */
 .header {
-  border: 1px solid red;
+  background-color: cadetblue;
 }
 
 .nav-list {
@@ -36,30 +37,43 @@
   align-items: center;
 
   list-style: none;
+
+  padding-inline-start: 0;
+}
+
+.link {
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.link:hover {
+  text-decoration: underline;
 }
 
 .nav-link {
   padding: 0 20px;
-  line-height: 50px;
-
-  text-decoration: none;
-
-  transition: 0.3s;
+  line-height: 50px;  
+  font-size: 24px;
 }
 
-.nav-link:hover {
-  text-decoration: underline;
-}
+
 
 /* MAIN */
 .main {
-  border: 1px solid red;
+  background-color:aliceblue;
 }
 
+.page-title {
+  text-transform: uppercase;
+}
+
+.code {
+  border: 10px solid white;
+}
 
 /* FOOTER */
 .footer {
-  border: 1px solid red;  
+  background-color: cadetblue;  
 }
 
 .footer-container {
